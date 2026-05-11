@@ -19,7 +19,7 @@ Java Developer | Core Java · Spring Boot · REST APIs · MySQL | Backend Engine
 
 ## 🏆 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandkgupta1&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anandkgupta1&layout=compact&theme=radical&hide_border=true" alt="Anand's Top Languages" />
 </p>
 
 ### ✍️ Random Dev Quote

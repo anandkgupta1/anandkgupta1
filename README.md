@@ -28,7 +28,7 @@ Java Developer | Core Java · Spring Boot · REST APIs · MySQL | Backend Engine
 
 ---
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
+  <a href="https://anandkgupta1.github.io/anandkgupta1.Anand-Portfolio/">
     <img src="https://komarev.com/ghpvc/?username=anandkgupta1&icon=0&color=0" alt="Profile Views" />
   </a>
 </p>
